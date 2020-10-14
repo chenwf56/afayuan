@@ -1,0 +1,21 @@
+{
+  "name": "chenba/afayuan",
+  "description": "阿法猿商城对接",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "",
+      "email": "xxxx@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "AFaYuan\\": "src/"
+    }
+  }
+}
